@@ -1,5 +1,7 @@
 p {
     font-size: 25px;
-    border: 1px red solid;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px blue solid;
+    padding: 50px;
 }
 
